@@ -1,7 +1,7 @@
 
 import { useState } from 'react'
 
-const Display = props => <div>{props.value}</div>
+
 
 const Display = props => <div>{props.value}</div>
   const Button = (props) => (
